@@ -4,4 +4,4 @@
 
 num = int(input('Digite um número inteiro: '))
 antecessor = num - 1
-print('O antecessor do seu número é:', antecessor)
+print('O antecessor do seu número é {}:'.format(antecessor))
